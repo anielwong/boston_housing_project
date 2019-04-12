@@ -3,7 +3,7 @@
 ## Project Overview
 In this project the task is to build an optimal machine learning model to estimate the best selling price for a client’s home in the Boston metropolitan area based on a statistical analysis of the historical data that is available.
 
-This project is based on the Machine Learning Engineer Udacity Course. It is designed to gain experience with the many techniques for training, testing, evaluating, and optimizing models, available in sklearn. 
+This project is based on the [Machine Learning Engineer Udacity Course](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009). It is designed to gain experience with the many techniques for training, testing, evaluating, and optimizing models, available in sklearn. 
 
 ## Project Highlights
 Things learned by completing this project:
